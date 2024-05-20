@@ -48,6 +48,15 @@ To begin using the S.M.A.R.T Disk Array Failure Prediction System, please follow
 
 For more information, and support, or to provide feedback, please visit our support page or contact our helpdesk at [lrt2436559745@gmail.com](mailto:lrt2436559745@gmail.com). We are committed to continuously improving our systems and appreciate your input.
 
+## Maintainers 🌟
+
+- Website Maintainers: [Phillweston](https://github.com/orgs/Prognostika/people/Phillweston)
+- Documentation Maintainers: [TommyVCT](https://github.com/orgs/Prognostika/people/tommyvct)
+- Machine Learning Project: [Phillweston](https://github.com/orgs/Prognostika/people/Phillweston) and [TommyVCT](https://github.com/orgs/Prognostika/people/tommyvct) and [MichaleDS](https://github.com/orgs/Prognostika/people/MichaleDS)
+- Dashboard Development: Waiting for the member to be assigned
+- Backend Service: [Phillweston](https://github.com/orgs/Prognostika/people/Phillweston)
+- Marketing: Waiting for the member to be assigned
+
 ## Contributing 🤝
 
 Interested in contributing? We welcome contributions from the community. Please refer to our contributing guidelines in the repository for more information on how you can contribute to the development of the S.M.A.R.T Disk Array Failure Prediction System.
